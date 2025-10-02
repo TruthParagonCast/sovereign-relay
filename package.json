@@ -1,1 +1,12 @@
-
+{
+  "name": "sovereign-relay-final",
+  "version": "1.0.0",
+  "description": "The definitive relay for the Sovereign's Console.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.17.0"
+  }
+}
